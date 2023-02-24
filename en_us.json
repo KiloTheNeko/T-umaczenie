@@ -109,8 +109,8 @@
   "item.wingsoffreedom.ultrahard_steel_winch": "Ultrahard Steel Winch",
   "item.wingsoffreedom.ultrahard_steel_hook_launching_mechanism": "Ultrahard Steel Hook Launching Mechanism",
   "item.wingsoffreedom.cylinder": "Cylinder",
-  "item.wingsoffreedom.hook_1": "Hook 1",
-  "item.wingsoffreedom.hook_2": "Hook 2",
+  "item.wingsoffreedom.hook_1": "Hook",
+  "item.wingsoffreedom.hook_2": "Modified Hook",
   "item.wingsoffreedom.valve": "Valve",
   "item.wingsoffreedom.wire": "Wire",
   "item.wingsoffreedom.grip": "Grip",
@@ -165,6 +165,7 @@
   "wingsoffreedom.subtitle.signal_flare.smoke": "Signal Flare emits smoke",
   "wingsoffreedom.subtitle.wall_mounted_artillery.load": "Wall mounted artillery loads",
   "wingsoffreedom.subtitle.tdm_gear.draw_blade": "Blade drawn from TDM Gear",
+  "wingsoffreedom.subtitle.tdm_gear.slashing_attack": "Performs slashing attack",
   "wingsoffreedom.subtitle.aptdmg_handle.shot": "APTDM Gear Handle shoots",
   "wingsoffreedom.subtitle.aptdmg_handle.load": "APTDM Gear Handle loaded",
   "wingsoffreedom.subtitle.aptdmg_handle.unload": "APTDM Gear Handle unloaded",
@@ -176,6 +177,8 @@
   "wingsoffreedom.subtitle.tdm_gear.boost": "TDM Gear boosts",
   "wingsoffreedom.subtitle.tdm_gear.dash": "TDM Gear dashes",
   "wingsoffreedom.subtitle.part_workshop.craft": "Part crafted in TDMG Part Workshop",
+  "wingsoffreedom.subtitle.musket.shoot": "Musket shoots",
+  "wingsoffreedom.subtitle.musket.load": "Musket loaded",
 
   "_comment": "Tooltips",
   "tooltip.wingsoffreedom.iceburst_interaction_click_gui": " with Iceburst Canister on Iceburst Shards in a GUI to store shards",
@@ -215,10 +218,11 @@
   "tooltip.wingsoffreedom.tdmg_reel_in": "Reel in",
   "tooltip.wingsoffreedom.tdmg_extend_wires": "Extend Wires",
   "tooltip.wingsoffreedom.tdmg_slashing_attack": " with swords - Charge and perform slashing attack",
-  "tooltip.wingsoffreedom.tdmg_thunderspears_shoot": " with Thunder Spears - Shoot Thunder Spears",
+  "tooltip.wingsoffreedom.tdmg_thunderspears_shoot": " with Thunder Spears - Shoot Thunder Spear",
   "tooltip.wingsoffreedom.tdmg_hook_splitting": "Adjust hook angle",
   "tooltip.wingsoffreedom.tdmg_ap_handles_shoot": "Shoot",
   "tooltip.wingsoffreedom.tdm_mode": "In TDM Mode:",
+  "tooltip.wingsoffreedom.main_part_bonus": "Single Material Bonus",
 
   "_comment": "Part Workshop Holo Gui",
   "wingsoffreedom.part_workshop.base_parts": "Base Parts",
@@ -263,10 +267,13 @@
   "tdmg_stat.wingsoffreedom.weight": "Weight",
   "tdmg_stat.wingsoffreedom.hook_speed": "Hook Speed",
   "tdmg_stat.wingsoffreedom.hook_splitting": "Hook Splitting",
+  "tdmg_stat.wingsoffreedom.hooks_conserve_player_vel": "Hooks Conserve Player Velocity",
 
   "_comment": "Other",
   "wingsoffreedom.other.tdm_mode": "TDM + ",
+  "wingsoffreedom.other.iron_bamboo_tmg": "Full Iron Bamboo Three Dimensional Maneuver Gear",
+  "wingsoffreedom.other.iron_bamboo_aptmg": "Full Iron Bamboo Anti-Personnel Three Dimensional Maneuver Gear",
   "wingsoffreedom.warning.default_tdmg_armor": "TDM Gear can only be used when wearing light armor!",
   "wingsoffreedom.warning.default_aptdmg_armor": "APTDM Gear can only be used when wearing light armor and no chestplate!",
-  "wingsoffreedom.warning.tdmg_elytra": "The TDMG can't be used while flying with an elytra!"
+  "wingsoffreedom.warning.tdmg_elytra": "The TDMG can't be used while flying with an Elytra!"
 }
